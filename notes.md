@@ -1,3 +1,5 @@
+## Exercise 1: Git command line basics
+
 - mkdir git-exercise
 - cd git-exercise
 - git clone https://github.com/mattpe/git-intro.git
@@ -12,3 +14,10 @@
 - git commit -m "made notes"
 - git status
 - git push
+
+## Exercise 2: Collaboration & conflicts
+
+- git checkout -b notes
+- git add .
+- git commit -m "added new notes"
+- git push origin notes
