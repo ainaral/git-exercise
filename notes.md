@@ -1,0 +1,9 @@
+- mkdir git-exercise
+- cd git-exercise
+- git clone https://github.com/mattpe/git-intro.git
+- git remote -v
+- git remote remove origin
+- git remote add origin https://github.com/ainaral/git-exercise.git
+- git remote -v
+- git push -u origin main
+- history
