@@ -7,3 +7,8 @@
 - git remote -v
 - git push -u origin main
 - history
+- git status
+- git add .
+- git commit -m "made notes"
+- git status
+- git push
