@@ -21,3 +21,9 @@
 - git add .
 - git commit -m "added new notes"
 - git push origin notes
+- git checkout main
+- git merge notes
+- git status
+- git add .
+- git commit -m "added new notes"
+- git push
